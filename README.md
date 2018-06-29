@@ -1,7 +1,7 @@
 # Split-String-By-Number
 This simple script will split any string by a number and returns a array.
 
-How to use
+## How to use
 ```javascript
 //Number to split by
 n = 3;
@@ -11,7 +11,7 @@ t = "abcdefghijklm";
 console.log(split(t, n));
 ```
 
-What is being printed
+## What is being printed
 ```
 [ 'abc', 'def', 'ghi', 'jkl', 'm' ]
 ```
